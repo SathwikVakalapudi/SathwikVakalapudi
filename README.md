@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vakalapudi--sathwik-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vakalapudi-sathwik)
 [![Gmail](https://img.shields.io/badge/Email-sathwikvakalapudi@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sathwikvakalapudi@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-@sathwikvakalapudi-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@sathwikvakalapudi)
 [![Location](https://img.shields.io/badge/Hyderabad-India-228B22?style=flat&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -93,11 +94,25 @@ Built multi-head attention, causal masking, and feed-forward blocks without high
 
 ---
 
+## Writing on Medium
+
+I write about AI agents, LLMs, and real-world agentic systems — from intuition to implementation.
+
+| Article | Date |
+|---------|------|
+| [Building Real AI Agents — Architecture, State, and Control](https://medium.com/@sathwikvakalapudi/building-real-ai-agents-architecture-state-and-control-4dbe80da1624) | Feb 2025 |
+| [What Is an AI Agent — and Why Most Agents Fail](https://medium.com/@sathwikvakalapudi/what-is-an-ai-agent-and-why-most-agents-fail-f254126d2221) | Feb 2025 |
+| [The Truth About ChatGPT, Gemini, Grok & Modern AI](https://medium.com/@sathwikvakalapudi/the-truth-about-chatgpt-gemini-grok-modern-ai-what-they-really-are-what-they-can-do-and-why-8df4a73ec268) | Feb 2025 |
+
+📖 [Read all articles →](https://medium.com/@sathwikvakalapudi)
+
+---
+
 ## What I'm Working On
 
 - 🔬 **Jarvis** — A modular personal AI assistant (Gmail + Calendar + WhatsApp + task planning)
 - 📊 **Stock Analyzer** — GenAI-powered buy/sell signal system with real-time data
-- ✍️ **Blog Series** — AI Agents from basic to professional: how they think, plan, and act
+- ✍️ **More writing** — Deep-diving into RAG evaluation, agent memory, and LLM fine-tuning
 
 ---
 
